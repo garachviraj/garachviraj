@@ -1,32 +1,115 @@
-<div align="center">
-╔═══════════════════════════════════════════════════════════╗
-║ ║
-║ 🔐 WELCOME TO VIRAJ'S SECURITY LAB 🔐 ║
-║ ║
-╚═══════════════════════════════════════════════════════════╝
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Hi+There+%F0%9F%91%8B+I'm+GarachViraj;Cybersecurity+Researcher;Ethical+Hacker;Parrot+Linux+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=3000&pause=500&color=00FF41&background=0D0D0D&center=true&vCenter=true&width=800&height=60&lines=👋+Hey+There%2C+I'm+Viraj;🔐+Cybersecurity+Enthusiast;🎯+Ethical+Hacker;🛡️+Bug+Bounty+Hunter" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="900">
+</p><h1 align="center">⚡ GARACHVIRAJ ⚡</h1><h3 align="center">Cybersecurity • Ethical Hacking • Linux • OSINT • Red Teaming</h3>---
 
-<br>
+┌──(garachviraj㉿parrot)-[~/profile]
+└─$ whoami
 
-<div align="center">
-  
-### 🚀 About Me
-> whoami
-viraj@cybersec:~$ 
-Passionate about cybersecurity, ethical hacking, and 
-building secure systems. Always learning, always improving.
-</div>
+Name        : GarachViraj
+Role        : Cybersecurity Enthusiast
+OS          : Parrot Security OS
+Focus       : Web Security | OSINT | Linux
+Status      : Learning Never Stops
 
 ---
 
-## 🛠️ Tech Stack & Skills
+🧠 About Me
 
-<div align="center">
+- 🔐 Passionate about Cybersecurity
+- 🐧 Linux & Open Source Enthusiast
+- ⚔️ Learning Ethical Hacking & Red Team Techniques
+- 🌐 Interested in Web Security
+- 🕵️ Exploring OSINT & Digital Investigations
+- 🚀 Building Security Tools & Automation Projects
 
+---
+
+💀 Hacker Terminal
+
+root@parrot:~# skills --list
+
+[✓] Linux
+[✓] Networking
+[✓] Python
+[✓] Bash
+[✓] OSINT
+[✓] Web Security
+[✓] Git & GitHub
+[✓] Security Research
+
+Loading advanced skills...
+███████████████████ 100%
+
+---
+
+⚙️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,html,css,javascript,mysql" />
+</p>---
+
+📊 GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=garachviraj&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garachviraj&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>---
+
+🔥 Streak Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=garachviraj&theme=highcontrast&hide_border=true" />
+</p>---
+
+🏆 Trophy Wall
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=garachviraj&theme=matrix&no-frame=true&margin-w=15&row=2&column=4" />
+</p>---
+
+📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=garachviraj&bg_color=000000&color=00ff41&line=ff0000&point=00ff41&hide_border=true" />
+</p>---
+
+🐍 Contribution Snake
+
+Create GitHub Action later:
+Generate Snake Animation
+Commit Automatically
+Display Contribution Snake
+
+---
+
+🚨 Current Mission
+
+Mission Status : ACTIVE
+
+Target:
+→ Learn Advanced Cybersecurity
+→ Build Security Projects
+→ Improve Linux Skills
+→ Contribute to Open Source
+
+Access Level:
+ROOT
+
+---
+
+☠️ Quote
+
+«"The quieter you become, the more you are able to hear."»
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=garachviraj&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" />
+</p><p align="center">
+⚡ Powered by Parrot Linux • Cybersecurity • Open Source ⚡
+</p>
 ### 🔐 Security & Hacking
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-00FF41?style=for-the-badge&logo=security&logoColor=black)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-FF0000?style=for-the-badge&logo=hacker&logoColor=white)
@@ -88,10 +171,10 @@ building secure systems. Always learning, always improving.
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-00FF41?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/garachviraj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garachviraj)
-[![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viraj@example.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black)](https://www.hackthebox.eu/profile/garachviraj)
+[![Twitter](https://img.shields.io/badge/Twitter-00FF41?style=for-the-badge&logo=twitter&logoColor=black)](https://x.com/GarachViraj_246)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-garach-99181131a?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+[![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garachviraj@gmail.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e3e42-c99a-700e-918b-85c674271b19)
 
 </div>
 
