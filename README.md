@@ -111,6 +111,7 @@ ROOT
 ⚡ Powered by Parrot Linux • Cybersecurity • Open Source ⚡
 </p>
 ### 🔐 Security & Hacking
+
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-00FF41?style=for-the-badge&logo=security&logoColor=black)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-FF0000?style=for-the-badge&logo=hacker&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network%20Security-0066CC?style=for-the-badge&logo=cisco&logoColor=white)
