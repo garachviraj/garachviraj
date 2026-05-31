@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Hi+There+%F0%9F%91%8B+I'm+GarachViraj;Cybersecurity+Researcher;Ethical+Hacker;Parrot+Linux+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="900">
+  <img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif" width="900">
 </p><h1 align="center">⚡ GARACHVIRAJ ⚡</h1><h3 align="center">Cybersecurity • Ethical Hacking • Linux • OSINT • Red Teaming</h3>---
 
 ┌──(garachviraj㉿parrot)-[~/profile]
