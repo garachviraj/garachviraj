@@ -2,16 +2,19 @@
 
 <p align="center">
   <img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif" width="900">
-</p><h1 align="center">⚡ GARACHVIRAJ ⚡</h1><h3 align="center">Cybersecurity • Ethical Hacking • Linux • OSINT • Red Teaming</h3>---
+</p><h1 align="center">⚡ GARACHVIRAJ ⚡</h1><h3 align="center">Cybersecurity • Ethical Hacking • Linux • OSINT • Red Teaming</h3>
 
-┌──(garachviraj㉿parrot)-[~/profile]
+---
+<b>
+┌──(garachviraj㉿parrot)-[~/profile]<br>
 └─$ whoami
+</b><br>
 
-Name        : GarachViraj
-Role        : Cybersecurity Enthusiast
-OS          : Parrot Security OS
-Focus       : Web Security | OSINT | Linux
-Status      : Learning Never Stops
+Name        : GarachViraj<br>
+Role        : Cybersecurity Enthusiast<br>
+OS          : Parrot Security OS<br>
+Focus       : Web Security | OSINT | Linux<br>
+Status      : Learning Never Stops<br>
 
 ---
 
@@ -28,16 +31,16 @@ Status      : Learning Never Stops
 
 💀 Hacker Terminal
 
-root@parrot:~# skills --list
+<b>root@parrot:~# skills --list</b>
 
-[✓] Linux
-[✓] Networking
-[✓] Python
-[✓] Bash
-[✓] OSINT
-[✓] Web Security
-[✓] Git & GitHub
-[✓] Security Research
+[✓] Linux<br>
+[✓] Networking<br>
+[✓] Python<br>
+[✓] Bash<br>
+[✓] OSINT<br>
+[✓] Web Security<br>
+[✓] Git & GitHub<br>
+[✓] Security Research<br>
 
 Loading advanced skills...
 ███████████████████ 100%
@@ -120,6 +123,7 @@ ROOT
 </p><p align="center">
 ⚡ Powered by Parrot Linux • Cybersecurity • Open Source ⚡
 </p>
+
 ### 🔐 Security & Hacking
 
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-00FF41?style=for-the-badge&logo=security&logoColor=black)
@@ -158,21 +162,22 @@ ROOT
 ## 🎯 Current Focus
 
 <div align="center">
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 █ 🔍 Vulnerability Research ████ 85%
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓
 █ 🛡️ Secure Code Development ██ 75%
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓
 █ 🔐 Cryptography & Encryption ███ 80%
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓
 █ 🎯 Bug Bounty Hunting ███ 90%
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓
 
 </div>
 
