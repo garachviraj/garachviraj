@@ -48,32 +48,42 @@ Loading advanced skills...
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,html,css,javascript,mysql" />
-</p>---
+</p>
+
+---
 
 📊 GitHub Statistics
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=garachviraj&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garachviraj&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>---
+</p>
+
+---
 
 🔥 Streak Stats
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=garachviraj&theme=highcontrast&hide_border=true" />
-</p>---
+</p>
+
+---
 
 🏆 Trophy Wall
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=garachviraj&theme=matrix&no-frame=true&margin-w=15&row=2&column=4" />
-</p>---
+</p>
+
+---
 
 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=garachviraj&bg_color=000000&color=00ff41&line=ff0000&point=00ff41&hide_border=true" />
-</p>---
+</p>
+
+---
 
 🐍 Contribution Snake
 
