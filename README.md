@@ -126,18 +126,30 @@ ROOT
 
 ### 🔐 Security & Hacking
 
+<div align='center'>
+  
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-00FF41?style=for-the-badge&logo=security&logoColor=black)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-FF0000?style=for-the-badge&logo=hacker&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network%20Security-0066CC?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/Cryptography-FFD700?style=for-the-badge&logo=gnupg&logoColor=black)
 
+</div>
+
 ### 💻 Programming Languages
+
+<div align='center'>
+
 ![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-1f1f1f?style=for-the-badge&logo=gnu-bash&logoColor=00FF41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00FF41?style=for-the-badge&logo=c&logoColor=black)
 
+</div>
+
 ### 🛡️ Tools & Platforms
+
+<div align='center'>
+
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6B00?style=for-the-badge&logo=security&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-002060?style=for-the-badge&logo=attack&logoColor=white)
