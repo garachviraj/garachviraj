@@ -202,7 +202,7 @@ ROOT
 [![Twitter](https://img.shields.io/badge/Twitter-00FF41?style=for-the-badge&logo=twitter&logoColor=black)](https://x.com/GarachViraj_246)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-garach-99181131a?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 [![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garachviraj@gmail.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e3e42-c99a-700e-918b-85c674271b19)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/2053864)
 
 </div>
 
